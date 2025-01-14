@@ -45,14 +45,14 @@ h4 {
     padding-top: 3px;
     padding-bottom: 3px;
     text-align: center;
-    height: 65%;
+    height: 80%;
 }
 
 .myfav {
     background-color: rgb(255, 242, 204);
     padding-top: 3px;
     padding-bottom: 3px;
-    height: 65%;
+    height: 80%;
     text-align: center;
 }
 
@@ -60,7 +60,7 @@ h4 {
     background-color: rgb(213, 232, 212);
     padding-top: 3px;
     padding-bottom: 3px;
-    height: 65%;
+    height: auto;
     text-align: center;
 }
 
